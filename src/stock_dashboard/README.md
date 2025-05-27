@@ -11,12 +11,21 @@ A Python-based interactive stock market analysis and visualization tool that pro
 - **Clean, professional visualizations** using Plotly
 
 ## 📊 Included Stocks
-
 - **AAPL** - Apple Inc.
 - **GOOGL** - Alphabet Inc. (Google)
 - **MSFT** - Microsoft Corporation
 - **TSLA** - Tesla Inc.
 
+## 📈 Sample Visualizations
+
+### Stock Price Comparison
+![Stock Price Comparison](stock_price_comparison.png)
+
+### Apple Trading Volume
+![Apple Volume Chart](apple_volume_chart.png)
+
+### Tesla with Moving Averages
+![Tesla Moving Averages](tesla_moving_averages.png)
 ## 🛠️ Technologies Used
 
 - **Python 3.7+**
